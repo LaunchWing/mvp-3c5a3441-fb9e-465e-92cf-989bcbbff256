@@ -1,0 +1,7 @@
+name = "mvp-3c5a3441-fb9e-465e-92cf-989bcbbff256"
+main = "functions/index.ts"
+compatibility_date = "2025-08-01"
+
+[[kv_namespaces]]
+binding = "ASSETS"
+id = "b3d4e74a66db4280aa12bd8f2042c144"
